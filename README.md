@@ -59,7 +59,7 @@ number of vehicles
 
 Lambda:
 
-routing/allocation factor
+routing/allocation factor (\lambda * routing_{cost} + (1-\lambda) * allocation_{cost}
 
 Q:
 
