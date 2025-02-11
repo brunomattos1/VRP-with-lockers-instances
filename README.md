@@ -25,23 +25,24 @@ id x y beginTimeWindow endTimeWindow capacity
 
 ## VRPPSDL
 
-I number of customers
+I: number of customers
 
-F number of lockers
+F: number of lockers
 
-T maximum duration
+T: maximum duration
 
-M number of vehicles
+M: number of vehicles
 
-delta allocation cost
+delta: allocation cost
 
-gamma vehicle cost
+gamma: vehicle cost
 
 id x y beginTimeWindow endTimeWindow serviceTime capapcity (= 0 for customers/depot, > 0 for lockers)
 
 ## VRPDA
 
 Name:
+
 name of the instance
 
 sNum:
